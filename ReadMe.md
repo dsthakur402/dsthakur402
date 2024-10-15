@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/dsthakur402?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/itsayu?style=social"> &nbsp;&nbsp;
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/dsthakur402?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dsthakur402?style=social"> &nbsp;&nbsp;
 
 <!-- -------------------------------BG Template---------------------------- -->
 
