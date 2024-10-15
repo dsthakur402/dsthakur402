@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/dsthakur402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dsthakur402" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dsthakur402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsthakur402" height="28" width="40" /></a>
-<a href="https://discord.gg/Itsayu#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a>
+<!--<a href="https://discord.gg/Itsayu#5915" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a> -->
 <a href="https://instagram.com/i.dsthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dsthakur402" height="28" width="38" /></a>
 <a href="mailto:cgcdivyanshu@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Divyanshu Singh" height="30" width="40" /></a>
 <a href="https://t.me/dsthakur402" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
