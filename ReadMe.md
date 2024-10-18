@@ -122,21 +122,15 @@ Here are some ideas to get you started:
 <a href="mailto:cgcdivyanshu@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Divyanshu Singh" height="30" width="40" /></a>
 <a href="https://t.me/dsthakur402" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
 <!--< a href="https://www.facebook.com/profile.php?id=100009518215980" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Ayush Kumar Tiwari" height="28" width="37" /></a> -->
-<a href="https://www.quora.com/profile/dsthakur402" target="blank"><img align="center" src="https://raw.githubusercontent.com/dsthakur402/dsthakur402/output/github-contribution-grid-snake-dark.svg" alt=" " height="28" width="38" /></a>
+<!-- <a href="https://www.quora.com/profile/dsthakur402" target="blank"></a> -->
 </p>
-
-  
 <br>
-<!-- Github contribution grid snake -->
-<h1 align="center">Contributions</h1>
-<p align="center">
-![snake animation](https://github.com/dsthakur402/blob/output/github-contribution-grid-snake2.svg)
-</p>
-<be>
 
 <!-- outro -->
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=dsthakur402 alt=dsthakur402/> </p>
-<p align="center"> <a href="https://twitter.com/dsthakur402" target="blank"><img src="https://img.shields.io/twitter/follow/dsthakur402?logo=twitter&style=for-the-badge" alt="dsthakur402" /></a> 
+<h1 align="center">Contributions</h1>
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/dsthakur402/dsthakur402/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
 
 
