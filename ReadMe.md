@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects.
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, I'm happy to help:)
-- 📫 How to reach me: @dsthaki
+- 📫 How to reach me: @dsthakur402
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
